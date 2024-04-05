@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(240, 234, 213);
+}
+img {
+    display: flex;
+    margin-left: auto;
+    width: 250px;
+    
+
+}
