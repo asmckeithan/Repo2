@@ -6,8 +6,8 @@ body {
 }
 img {
     display: flex;
-    width: 300px;
-    margin-left: 400px;
+    width: 500px;
+    margin-left: 500px;
     /* align-content: center; */
 }
 .topnav {
